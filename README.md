@@ -10,4 +10,4 @@ To do:
 Code is found in this GitHub repository.
 
 [Presentation slides](https://www.canva.com/design/DAGlFqMdHe8/ZtukZ5dEwqPJuR_mVm7wqA/edit?utm_content=DAGlFqMdHe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[Demonstration video](https://youtu.be/7t7woY61ITc)
+\n[Demonstration video](https://youtu.be/7t7woY61ITc)
