@@ -5,7 +5,9 @@ Income per year (Baht): 1,000,000
 	- [ ] Pregnant
 
 Number of children: 2
+
 Number of disabled dependents: 0
+
 Number of parents supported: 1
 
 # Insert your deductions
