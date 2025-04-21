@@ -4,7 +4,6 @@ To do:
 - Update Tax Helper Structure + maybe code comments
 - Class diagram (can use draw.io or similar)
 - Slides
-- Record demonstration video
 
 ## Links
 Code is found in this GitHub repository.
