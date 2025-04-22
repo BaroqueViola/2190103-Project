@@ -1,8 +1,5 @@
 # Tax Helper
 This program helps you calculate your Thai personal income tax.
-To do:
-- Update Tax Helper Structure + maybe code comments
-- Slides
 
 ## Links
 Code is found in this GitHub repository.
