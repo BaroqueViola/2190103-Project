@@ -1,5 +1,6 @@
 # Tax Helper
 This program helps you calculate your Thai personal income tax.
+To run the program, you need to obtain your own [Gemini API key](https://www.merge.dev/blog/gemini-api-key). Choose Gemini 1.5 Flash Pro.
 
 ## Links
 Code is found in this GitHub repository.
